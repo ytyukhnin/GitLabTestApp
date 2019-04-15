@@ -1,0 +1,3 @@
+NUGET
+  remote: https://www.nuget.org/api/v2
+    Microsoft.CodeDom.Providers.DotNetCompilerPlatform (2.0) - restriction: >= net462
